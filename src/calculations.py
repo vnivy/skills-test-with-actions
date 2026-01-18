@@ -25,3 +25,8 @@ def get_nth_fibonacci(n):
         for _ in range(2, n + 1):
             a, b = b, a + b
         return b
+# //
+# @professortocat, I've run my coverage report.
+# Seems there is some opportunity to increase the test coverage. 🧐
+# What should we do next?
+# //
